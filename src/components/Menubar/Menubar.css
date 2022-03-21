@@ -1,0 +1,8 @@
+.container {
+  list-style: none;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+  color: rgb(70, 70, 70);
+}
